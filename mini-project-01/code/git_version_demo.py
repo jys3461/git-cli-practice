@@ -14,7 +14,11 @@ from sklearn.neighbors import KNeighborsClassifier
 
 
 # Git Diff 실습: 3을 5로 바꾼 뒤 다시 실행하고 Commit해 보세요.
+<<<<<<< HEAD
 n_neighbors = 3
+=======
+n_neighbors = 9
+>>>>>>> feature/knn-tuning
 
 
 def main():
